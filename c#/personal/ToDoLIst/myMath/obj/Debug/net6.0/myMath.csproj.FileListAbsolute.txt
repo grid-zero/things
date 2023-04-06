@@ -1,0 +1,15 @@
+C:\Users\azzhu\Documents\programming\c#\personal\ToDoLIst\myMath\bin\Debug\net6.0\myMath.exe
+C:\Users\azzhu\Documents\programming\c#\personal\ToDoLIst\myMath\bin\Debug\net6.0\myMath.deps.json
+C:\Users\azzhu\Documents\programming\c#\personal\ToDoLIst\myMath\bin\Debug\net6.0\myMath.runtimeconfig.json
+C:\Users\azzhu\Documents\programming\c#\personal\ToDoLIst\myMath\bin\Debug\net6.0\myMath.dll
+C:\Users\azzhu\Documents\programming\c#\personal\ToDoLIst\myMath\bin\Debug\net6.0\ref\myMath.dll
+C:\Users\azzhu\Documents\programming\c#\personal\ToDoLIst\myMath\bin\Debug\net6.0\myMath.pdb
+C:\Users\azzhu\Documents\programming\c#\personal\ToDoLIst\myMath\obj\Debug\net6.0\myMath.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\azzhu\Documents\programming\c#\personal\ToDoLIst\myMath\obj\Debug\net6.0\myMath.AssemblyInfoInputs.cache
+C:\Users\azzhu\Documents\programming\c#\personal\ToDoLIst\myMath\obj\Debug\net6.0\myMath.AssemblyInfo.cs
+C:\Users\azzhu\Documents\programming\c#\personal\ToDoLIst\myMath\obj\Debug\net6.0\myMath.csproj.CoreCompileInputs.cache
+C:\Users\azzhu\Documents\programming\c#\personal\ToDoLIst\myMath\obj\Debug\net6.0\myMath.dll
+C:\Users\azzhu\Documents\programming\c#\personal\ToDoLIst\myMath\obj\Debug\net6.0\ref\myMath.dll
+C:\Users\azzhu\Documents\programming\c#\personal\ToDoLIst\myMath\obj\Debug\net6.0\myMath.pdb
+C:\Users\azzhu\Documents\programming\c#\personal\ToDoLIst\myMath\obj\Debug\net6.0\myMath.genruntimeconfig.cache
+C:\Users\azzhu\Documents\programming\c#\personal\ToDoLIst\myMath\obj\Debug\net6.0\myMath.csproj.AssemblyReference.cache

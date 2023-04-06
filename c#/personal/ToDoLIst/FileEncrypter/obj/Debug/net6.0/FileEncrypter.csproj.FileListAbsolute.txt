@@ -1,0 +1,15 @@
+C:\Users\azzhu\Documents\programming\c#\personal\ToDoLIst\FileEncrypter\bin\Debug\net6.0\FileEncrypter.exe
+C:\Users\azzhu\Documents\programming\c#\personal\ToDoLIst\FileEncrypter\bin\Debug\net6.0\FileEncrypter.deps.json
+C:\Users\azzhu\Documents\programming\c#\personal\ToDoLIst\FileEncrypter\bin\Debug\net6.0\FileEncrypter.runtimeconfig.json
+C:\Users\azzhu\Documents\programming\c#\personal\ToDoLIst\FileEncrypter\bin\Debug\net6.0\FileEncrypter.dll
+C:\Users\azzhu\Documents\programming\c#\personal\ToDoLIst\FileEncrypter\bin\Debug\net6.0\ref\FileEncrypter.dll
+C:\Users\azzhu\Documents\programming\c#\personal\ToDoLIst\FileEncrypter\bin\Debug\net6.0\FileEncrypter.pdb
+C:\Users\azzhu\Documents\programming\c#\personal\ToDoLIst\FileEncrypter\obj\Debug\net6.0\FileEncrypter.csproj.AssemblyReference.cache
+C:\Users\azzhu\Documents\programming\c#\personal\ToDoLIst\FileEncrypter\obj\Debug\net6.0\FileEncrypter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\azzhu\Documents\programming\c#\personal\ToDoLIst\FileEncrypter\obj\Debug\net6.0\FileEncrypter.AssemblyInfoInputs.cache
+C:\Users\azzhu\Documents\programming\c#\personal\ToDoLIst\FileEncrypter\obj\Debug\net6.0\FileEncrypter.AssemblyInfo.cs
+C:\Users\azzhu\Documents\programming\c#\personal\ToDoLIst\FileEncrypter\obj\Debug\net6.0\FileEncrypter.csproj.CoreCompileInputs.cache
+C:\Users\azzhu\Documents\programming\c#\personal\ToDoLIst\FileEncrypter\obj\Debug\net6.0\FileEncrypter.dll
+C:\Users\azzhu\Documents\programming\c#\personal\ToDoLIst\FileEncrypter\obj\Debug\net6.0\ref\FileEncrypter.dll
+C:\Users\azzhu\Documents\programming\c#\personal\ToDoLIst\FileEncrypter\obj\Debug\net6.0\FileEncrypter.pdb
+C:\Users\azzhu\Documents\programming\c#\personal\ToDoLIst\FileEncrypter\obj\Debug\net6.0\FileEncrypter.genruntimeconfig.cache

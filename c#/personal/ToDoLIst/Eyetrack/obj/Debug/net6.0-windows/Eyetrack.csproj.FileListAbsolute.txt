@@ -1,0 +1,17 @@
+C:\Users\azzhu\Documents\programming\c#\personal\ToDoLIst\Eyetrack\bin\Debug\net6.0-windows\Eyetrack.exe
+C:\Users\azzhu\Documents\programming\c#\personal\ToDoLIst\Eyetrack\bin\Debug\net6.0-windows\Eyetrack.deps.json
+C:\Users\azzhu\Documents\programming\c#\personal\ToDoLIst\Eyetrack\bin\Debug\net6.0-windows\Eyetrack.runtimeconfig.json
+C:\Users\azzhu\Documents\programming\c#\personal\ToDoLIst\Eyetrack\bin\Debug\net6.0-windows\Eyetrack.dll
+C:\Users\azzhu\Documents\programming\c#\personal\ToDoLIst\Eyetrack\bin\Debug\net6.0-windows\ref\Eyetrack.dll
+C:\Users\azzhu\Documents\programming\c#\personal\ToDoLIst\Eyetrack\bin\Debug\net6.0-windows\Eyetrack.pdb
+C:\Users\azzhu\Documents\programming\c#\personal\ToDoLIst\Eyetrack\obj\Debug\net6.0-windows\Eyetrack.csproj.AssemblyReference.cache
+C:\Users\azzhu\Documents\programming\c#\personal\ToDoLIst\Eyetrack\obj\Debug\net6.0-windows\Eyetrack.Form1.resources
+C:\Users\azzhu\Documents\programming\c#\personal\ToDoLIst\Eyetrack\obj\Debug\net6.0-windows\Eyetrack.csproj.GenerateResource.cache
+C:\Users\azzhu\Documents\programming\c#\personal\ToDoLIst\Eyetrack\obj\Debug\net6.0-windows\Eyetrack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\azzhu\Documents\programming\c#\personal\ToDoLIst\Eyetrack\obj\Debug\net6.0-windows\Eyetrack.AssemblyInfoInputs.cache
+C:\Users\azzhu\Documents\programming\c#\personal\ToDoLIst\Eyetrack\obj\Debug\net6.0-windows\Eyetrack.AssemblyInfo.cs
+C:\Users\azzhu\Documents\programming\c#\personal\ToDoLIst\Eyetrack\obj\Debug\net6.0-windows\Eyetrack.csproj.CoreCompileInputs.cache
+C:\Users\azzhu\Documents\programming\c#\personal\ToDoLIst\Eyetrack\obj\Debug\net6.0-windows\Eyetrack.dll
+C:\Users\azzhu\Documents\programming\c#\personal\ToDoLIst\Eyetrack\obj\Debug\net6.0-windows\ref\Eyetrack.dll
+C:\Users\azzhu\Documents\programming\c#\personal\ToDoLIst\Eyetrack\obj\Debug\net6.0-windows\Eyetrack.pdb
+C:\Users\azzhu\Documents\programming\c#\personal\ToDoLIst\Eyetrack\obj\Debug\net6.0-windows\Eyetrack.genruntimeconfig.cache

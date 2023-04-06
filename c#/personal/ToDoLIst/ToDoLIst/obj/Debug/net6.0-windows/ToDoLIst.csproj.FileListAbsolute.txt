@@ -1,0 +1,17 @@
+C:\Users\azzhu\Documents\programming\c#\personal\ToDoLIst\ToDoLIst\bin\Debug\net6.0-windows\ToDoLIst.exe
+C:\Users\azzhu\Documents\programming\c#\personal\ToDoLIst\ToDoLIst\bin\Debug\net6.0-windows\ToDoLIst.deps.json
+C:\Users\azzhu\Documents\programming\c#\personal\ToDoLIst\ToDoLIst\bin\Debug\net6.0-windows\ToDoLIst.runtimeconfig.json
+C:\Users\azzhu\Documents\programming\c#\personal\ToDoLIst\ToDoLIst\bin\Debug\net6.0-windows\ToDoLIst.dll
+C:\Users\azzhu\Documents\programming\c#\personal\ToDoLIst\ToDoLIst\bin\Debug\net6.0-windows\ref\ToDoLIst.dll
+C:\Users\azzhu\Documents\programming\c#\personal\ToDoLIst\ToDoLIst\bin\Debug\net6.0-windows\ToDoLIst.pdb
+C:\Users\azzhu\Documents\programming\c#\personal\ToDoLIst\ToDoLIst\obj\Debug\net6.0-windows\ToDoLIst.csproj.AssemblyReference.cache
+C:\Users\azzhu\Documents\programming\c#\personal\ToDoLIst\ToDoLIst\obj\Debug\net6.0-windows\ToDoLIst.Form1.resources
+C:\Users\azzhu\Documents\programming\c#\personal\ToDoLIst\ToDoLIst\obj\Debug\net6.0-windows\ToDoLIst.csproj.GenerateResource.cache
+C:\Users\azzhu\Documents\programming\c#\personal\ToDoLIst\ToDoLIst\obj\Debug\net6.0-windows\ToDoLIst.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\azzhu\Documents\programming\c#\personal\ToDoLIst\ToDoLIst\obj\Debug\net6.0-windows\ToDoLIst.AssemblyInfoInputs.cache
+C:\Users\azzhu\Documents\programming\c#\personal\ToDoLIst\ToDoLIst\obj\Debug\net6.0-windows\ToDoLIst.AssemblyInfo.cs
+C:\Users\azzhu\Documents\programming\c#\personal\ToDoLIst\ToDoLIst\obj\Debug\net6.0-windows\ToDoLIst.csproj.CoreCompileInputs.cache
+C:\Users\azzhu\Documents\programming\c#\personal\ToDoLIst\ToDoLIst\obj\Debug\net6.0-windows\ToDoLIst.dll
+C:\Users\azzhu\Documents\programming\c#\personal\ToDoLIst\ToDoLIst\obj\Debug\net6.0-windows\ref\ToDoLIst.dll
+C:\Users\azzhu\Documents\programming\c#\personal\ToDoLIst\ToDoLIst\obj\Debug\net6.0-windows\ToDoLIst.pdb
+C:\Users\azzhu\Documents\programming\c#\personal\ToDoLIst\ToDoLIst\obj\Debug\net6.0-windows\ToDoLIst.genruntimeconfig.cache

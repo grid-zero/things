@@ -1,0 +1,46 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "942ecfbd-bdfa-4e51-8236-395847c3dc07": {
+      "ProjectGuid": "942ecfbd-bdfa-4e51-8236-395847c3dc07",
+      "DisplayName": "ToDoLIst",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "de9ad2ed-fbe7-4fb8-8384-2c358abaa7bf": {
+      "ProjectGuid": "de9ad2ed-fbe7-4fb8-8384-2c358abaa7bf",
+      "DisplayName": "Eyetrack",
+      "ColorIndex": 1
+    },
+    "49ffeef2-2d18-4ab9-910f-ea4af2f2dd36": {
+      "ProjectGuid": "49ffeef2-2d18-4ab9-910f-ea4af2f2dd36",
+      "DisplayName": "FileEncrypter",
+      "ColorIndex": 2
+    },
+    "7309c0b3-5967-4937-8975-e421539a7151": {
+      "ProjectGuid": "7309c0b3-5967-4937-8975-e421539a7151",
+      "DisplayName": "ConsoleApp1",
+      "ColorIndex": 3
+    },
+    "9e7eb139-f385-4b31-938d-aeceb09b2a57": {
+      "ProjectGuid": "9e7eb139-f385-4b31-938d-aeceb09b2a57",
+      "DisplayName": "McCalculator",
+      "ColorIndex": 4
+    },
+    "63ed9bbc-4f24-4d19-9a48-bb667f60cce8": {
+      "ProjectGuid": "63ed9bbc-4f24-4d19-9a48-bb667f60cce8",
+      "DisplayName": "myMath",
+      "ColorIndex": 5
+    },
+    "11fa3021-fc8b-4fc1-9da5-89bc8ccfe3a2": {
+      "ProjectGuid": "11fa3021-fc8b-4fc1-9da5-89bc8ccfe3a2",
+      "DisplayName": "test",
+      "ColorIndex": 6
+    }
+  },
+  "NextColorIndex": 7
+}

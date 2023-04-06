@@ -1,0 +1,14 @@
+iron ingot
+1
+BREAK
+plank
+4
+log
+BREAK
+stick
+4
+plank
+plank
+BREAK
+log
+1

@@ -1,0 +1,15 @@
+C:\Users\azzhu\Documents\programming\c#\personal\ToDoLIst\McCalculator\bin\Debug\net6.0\McCalculator.exe
+C:\Users\azzhu\Documents\programming\c#\personal\ToDoLIst\McCalculator\bin\Debug\net6.0\McCalculator.deps.json
+C:\Users\azzhu\Documents\programming\c#\personal\ToDoLIst\McCalculator\bin\Debug\net6.0\McCalculator.runtimeconfig.json
+C:\Users\azzhu\Documents\programming\c#\personal\ToDoLIst\McCalculator\bin\Debug\net6.0\McCalculator.dll
+C:\Users\azzhu\Documents\programming\c#\personal\ToDoLIst\McCalculator\bin\Debug\net6.0\ref\McCalculator.dll
+C:\Users\azzhu\Documents\programming\c#\personal\ToDoLIst\McCalculator\bin\Debug\net6.0\McCalculator.pdb
+C:\Users\azzhu\Documents\programming\c#\personal\ToDoLIst\McCalculator\obj\Debug\net6.0\McCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\azzhu\Documents\programming\c#\personal\ToDoLIst\McCalculator\obj\Debug\net6.0\McCalculator.AssemblyInfoInputs.cache
+C:\Users\azzhu\Documents\programming\c#\personal\ToDoLIst\McCalculator\obj\Debug\net6.0\McCalculator.AssemblyInfo.cs
+C:\Users\azzhu\Documents\programming\c#\personal\ToDoLIst\McCalculator\obj\Debug\net6.0\McCalculator.csproj.CoreCompileInputs.cache
+C:\Users\azzhu\Documents\programming\c#\personal\ToDoLIst\McCalculator\obj\Debug\net6.0\McCalculator.dll
+C:\Users\azzhu\Documents\programming\c#\personal\ToDoLIst\McCalculator\obj\Debug\net6.0\ref\McCalculator.dll
+C:\Users\azzhu\Documents\programming\c#\personal\ToDoLIst\McCalculator\obj\Debug\net6.0\McCalculator.pdb
+C:\Users\azzhu\Documents\programming\c#\personal\ToDoLIst\McCalculator\obj\Debug\net6.0\McCalculator.genruntimeconfig.cache
+C:\Users\azzhu\Documents\programming\c#\personal\ToDoLIst\McCalculator\obj\Debug\net6.0\McCalculator.csproj.AssemblyReference.cache
