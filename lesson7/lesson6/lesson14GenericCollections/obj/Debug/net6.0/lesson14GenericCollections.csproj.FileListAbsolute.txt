@@ -1,0 +1,15 @@
+C:\Users\azzhu\Documents\lesson7\lesson6\lesson14GenericCollections\bin\Debug\net6.0\lesson14GenericCollections.exe
+C:\Users\azzhu\Documents\lesson7\lesson6\lesson14GenericCollections\bin\Debug\net6.0\lesson14GenericCollections.deps.json
+C:\Users\azzhu\Documents\lesson7\lesson6\lesson14GenericCollections\bin\Debug\net6.0\lesson14GenericCollections.runtimeconfig.json
+C:\Users\azzhu\Documents\lesson7\lesson6\lesson14GenericCollections\bin\Debug\net6.0\lesson14GenericCollections.dll
+C:\Users\azzhu\Documents\lesson7\lesson6\lesson14GenericCollections\bin\Debug\net6.0\ref\lesson14GenericCollections.dll
+C:\Users\azzhu\Documents\lesson7\lesson6\lesson14GenericCollections\bin\Debug\net6.0\lesson14GenericCollections.pdb
+C:\Users\azzhu\Documents\lesson7\lesson6\lesson14GenericCollections\obj\Debug\net6.0\lesson14GenericCollections.csproj.AssemblyReference.cache
+C:\Users\azzhu\Documents\lesson7\lesson6\lesson14GenericCollections\obj\Debug\net6.0\lesson14GenericCollections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\azzhu\Documents\lesson7\lesson6\lesson14GenericCollections\obj\Debug\net6.0\lesson14GenericCollections.AssemblyInfoInputs.cache
+C:\Users\azzhu\Documents\lesson7\lesson6\lesson14GenericCollections\obj\Debug\net6.0\lesson14GenericCollections.AssemblyInfo.cs
+C:\Users\azzhu\Documents\lesson7\lesson6\lesson14GenericCollections\obj\Debug\net6.0\lesson14GenericCollections.csproj.CoreCompileInputs.cache
+C:\Users\azzhu\Documents\lesson7\lesson6\lesson14GenericCollections\obj\Debug\net6.0\lesson14GenericCollections.dll
+C:\Users\azzhu\Documents\lesson7\lesson6\lesson14GenericCollections\obj\Debug\net6.0\ref\lesson14GenericCollections.dll
+C:\Users\azzhu\Documents\lesson7\lesson6\lesson14GenericCollections\obj\Debug\net6.0\lesson14GenericCollections.pdb
+C:\Users\azzhu\Documents\lesson7\lesson6\lesson14GenericCollections\obj\Debug\net6.0\lesson14GenericCollections.genruntimeconfig.cache

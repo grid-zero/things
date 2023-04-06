@@ -1,0 +1,6 @@
+H:\Programming\lesson6\sort\bin\Debug\sort.exe.config
+H:\Programming\lesson6\sort\obj\Debug\sort.csprojResolveAssemblyReference.cache
+H:\Programming\lesson6\sort\bin\Debug\sort.exe
+H:\Programming\lesson6\sort\bin\Debug\sort.pdb
+H:\Programming\lesson6\sort\obj\Debug\sort.exe
+H:\Programming\lesson6\sort\obj\Debug\sort.pdb

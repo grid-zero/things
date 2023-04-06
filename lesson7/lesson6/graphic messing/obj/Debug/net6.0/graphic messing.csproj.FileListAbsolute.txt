@@ -1,0 +1,15 @@
+C:\Users\azzhu\Downloads\lesson7\lesson6\graphic messing\bin\Debug\net6.0\graphic messing.exe
+C:\Users\azzhu\Downloads\lesson7\lesson6\graphic messing\bin\Debug\net6.0\graphic messing.deps.json
+C:\Users\azzhu\Downloads\lesson7\lesson6\graphic messing\bin\Debug\net6.0\graphic messing.runtimeconfig.json
+C:\Users\azzhu\Downloads\lesson7\lesson6\graphic messing\bin\Debug\net6.0\graphic messing.dll
+C:\Users\azzhu\Downloads\lesson7\lesson6\graphic messing\bin\Debug\net6.0\ref\graphic messing.dll
+C:\Users\azzhu\Downloads\lesson7\lesson6\graphic messing\bin\Debug\net6.0\graphic messing.pdb
+C:\Users\azzhu\Downloads\lesson7\lesson6\graphic messing\obj\Debug\net6.0\graphic messing.csproj.AssemblyReference.cache
+C:\Users\azzhu\Downloads\lesson7\lesson6\graphic messing\obj\Debug\net6.0\graphic messing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\azzhu\Downloads\lesson7\lesson6\graphic messing\obj\Debug\net6.0\graphic messing.AssemblyInfoInputs.cache
+C:\Users\azzhu\Downloads\lesson7\lesson6\graphic messing\obj\Debug\net6.0\graphic messing.AssemblyInfo.cs
+C:\Users\azzhu\Downloads\lesson7\lesson6\graphic messing\obj\Debug\net6.0\graphic messing.csproj.CoreCompileInputs.cache
+C:\Users\azzhu\Downloads\lesson7\lesson6\graphic messing\obj\Debug\net6.0\graphic messing.dll
+C:\Users\azzhu\Downloads\lesson7\lesson6\graphic messing\obj\Debug\net6.0\ref\graphic messing.dll
+C:\Users\azzhu\Downloads\lesson7\lesson6\graphic messing\obj\Debug\net6.0\graphic messing.pdb
+C:\Users\azzhu\Downloads\lesson7\lesson6\graphic messing\obj\Debug\net6.0\graphic messing.genruntimeconfig.cache

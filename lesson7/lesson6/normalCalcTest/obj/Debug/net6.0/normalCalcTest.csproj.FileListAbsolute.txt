@@ -1,0 +1,15 @@
+C:\Users\azzhu\Documents\lesson7\lesson6\normalCalcTest\bin\Debug\net6.0\normalCalcTest.exe
+C:\Users\azzhu\Documents\lesson7\lesson6\normalCalcTest\bin\Debug\net6.0\normalCalcTest.deps.json
+C:\Users\azzhu\Documents\lesson7\lesson6\normalCalcTest\bin\Debug\net6.0\normalCalcTest.runtimeconfig.json
+C:\Users\azzhu\Documents\lesson7\lesson6\normalCalcTest\bin\Debug\net6.0\normalCalcTest.dll
+C:\Users\azzhu\Documents\lesson7\lesson6\normalCalcTest\bin\Debug\net6.0\ref\normalCalcTest.dll
+C:\Users\azzhu\Documents\lesson7\lesson6\normalCalcTest\bin\Debug\net6.0\normalCalcTest.pdb
+C:\Users\azzhu\Documents\lesson7\lesson6\normalCalcTest\obj\Debug\net6.0\normalCalcTest.csproj.AssemblyReference.cache
+C:\Users\azzhu\Documents\lesson7\lesson6\normalCalcTest\obj\Debug\net6.0\normalCalcTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\azzhu\Documents\lesson7\lesson6\normalCalcTest\obj\Debug\net6.0\normalCalcTest.AssemblyInfoInputs.cache
+C:\Users\azzhu\Documents\lesson7\lesson6\normalCalcTest\obj\Debug\net6.0\normalCalcTest.AssemblyInfo.cs
+C:\Users\azzhu\Documents\lesson7\lesson6\normalCalcTest\obj\Debug\net6.0\normalCalcTest.csproj.CoreCompileInputs.cache
+C:\Users\azzhu\Documents\lesson7\lesson6\normalCalcTest\obj\Debug\net6.0\normalCalcTest.dll
+C:\Users\azzhu\Documents\lesson7\lesson6\normalCalcTest\obj\Debug\net6.0\ref\normalCalcTest.dll
+C:\Users\azzhu\Documents\lesson7\lesson6\normalCalcTest\obj\Debug\net6.0\normalCalcTest.pdb
+C:\Users\azzhu\Documents\lesson7\lesson6\normalCalcTest\obj\Debug\net6.0\normalCalcTest.genruntimeconfig.cache

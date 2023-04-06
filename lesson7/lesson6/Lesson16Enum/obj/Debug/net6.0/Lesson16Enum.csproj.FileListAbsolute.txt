@@ -1,0 +1,15 @@
+C:\Users\azzhu\Documents\lesson7\lesson6\Lesson16Enum\bin\Debug\net6.0\Lesson16Enum.exe
+C:\Users\azzhu\Documents\lesson7\lesson6\Lesson16Enum\bin\Debug\net6.0\Lesson16Enum.deps.json
+C:\Users\azzhu\Documents\lesson7\lesson6\Lesson16Enum\bin\Debug\net6.0\Lesson16Enum.runtimeconfig.json
+C:\Users\azzhu\Documents\lesson7\lesson6\Lesson16Enum\bin\Debug\net6.0\Lesson16Enum.dll
+C:\Users\azzhu\Documents\lesson7\lesson6\Lesson16Enum\bin\Debug\net6.0\ref\Lesson16Enum.dll
+C:\Users\azzhu\Documents\lesson7\lesson6\Lesson16Enum\bin\Debug\net6.0\Lesson16Enum.pdb
+C:\Users\azzhu\Documents\lesson7\lesson6\Lesson16Enum\obj\Debug\net6.0\Lesson16Enum.csproj.AssemblyReference.cache
+C:\Users\azzhu\Documents\lesson7\lesson6\Lesson16Enum\obj\Debug\net6.0\Lesson16Enum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\azzhu\Documents\lesson7\lesson6\Lesson16Enum\obj\Debug\net6.0\Lesson16Enum.AssemblyInfoInputs.cache
+C:\Users\azzhu\Documents\lesson7\lesson6\Lesson16Enum\obj\Debug\net6.0\Lesson16Enum.AssemblyInfo.cs
+C:\Users\azzhu\Documents\lesson7\lesson6\Lesson16Enum\obj\Debug\net6.0\Lesson16Enum.csproj.CoreCompileInputs.cache
+C:\Users\azzhu\Documents\lesson7\lesson6\Lesson16Enum\obj\Debug\net6.0\Lesson16Enum.dll
+C:\Users\azzhu\Documents\lesson7\lesson6\Lesson16Enum\obj\Debug\net6.0\ref\Lesson16Enum.dll
+C:\Users\azzhu\Documents\lesson7\lesson6\Lesson16Enum\obj\Debug\net6.0\Lesson16Enum.pdb
+C:\Users\azzhu\Documents\lesson7\lesson6\Lesson16Enum\obj\Debug\net6.0\Lesson16Enum.genruntimeconfig.cache

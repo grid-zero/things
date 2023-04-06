@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "172369aa-7f6e-4ff2-9fa8-919f71410720": {
+      "ProjectGuid": "172369aa-7f6e-4ff2-9fa8-919f71410720",
+      "DisplayName": "matrix+normal",
+      "ColorIndex": 0
+    },
+    "4245602a-0beb-4e5c-a716-efb670a29b73": {
+      "ProjectGuid": "4245602a-0beb-4e5c-a716-efb670a29b73",
+      "DisplayName": "sort",
+      "ColorIndex": 1
+    },
+    "c0d6cf8e-f0b2-47ae-b3d3-159a1b2efd30": {
+      "ProjectGuid": "c0d6cf8e-f0b2-47ae-b3d3-159a1b2efd30",
+      "DisplayName": "Sortbinary",
+      "ColorIndex": 2
+    },
+    "1c66f55f-97eb-476b-9b70-e4f51253ef28": {
+      "ProjectGuid": "1c66f55f-97eb-476b-9b70-e4f51253ef28",
+      "DisplayName": "graphic messing",
+      "ColorIndex": 3
+    },
+    "45992d3e-f547-419e-82e0-8b23d021c533": {
+      "ProjectGuid": "45992d3e-f547-419e-82e0-8b23d021c533",
+      "DisplayName": "ConsoleApplication1",
+      "ColorIndex": 4
+    },
+    "22049641-89f6-4150-9cab-1322e58cdad9": {
+      "ProjectGuid": "22049641-89f6-4150-9cab-1322e58cdad9",
+      "DisplayName": "lesson11",
+      "ColorIndex": 5
+    },
+    "ab638919-7c16-495b-b389-8144e79b472e": {
+      "ProjectGuid": "ab638919-7c16-495b-b389-8144e79b472e",
+      "DisplayName": "normalCalcTest",
+      "ColorIndex": 6
+    },
+    "5a131e35-529e-43f4-b673-e8f2bae19b24": {
+      "ProjectGuid": "5a131e35-529e-43f4-b673-e8f2bae19b24",
+      "DisplayName": "lesson12ReadDecode",
+      "ColorIndex": 7
+    },
+    "fdadba44-a4e5-4b62-9bf5-4bb42392a9d2": {
+      "ProjectGuid": "fdadba44-a4e5-4b62-9bf5-4bb42392a9d2",
+      "DisplayName": "case",
+      "ColorIndex": 8
+    },
+    "cf714cdd-b9bf-4cce-afb4-c91fdced5366": {
+      "ProjectGuid": "cf714cdd-b9bf-4cce-afb4-c91fdced5366",
+      "DisplayName": "lesson14GenericCollections",
+      "ColorIndex": 9
+    },
+    "65ed4e83-1127-4f96-b883-b22f628f9147": {
+      "ProjectGuid": "65ed4e83-1127-4f96-b883-b22f628f9147",
+      "DisplayName": "Lesson16Enum",
+      "ColorIndex": 10
+    },
+    "737bc034-8780-4cd3-8321-da6c7320837c": {
+      "ProjectGuid": "737bc034-8780-4cd3-8321-da6c7320837c",
+      "DisplayName": "lesson6",
+      "ColorIndex": 11
+    },
+    "b966e38f-8f94-4a80-a46e-13098e345856": {
+      "ProjectGuid": "b966e38f-8f94-4a80-a46e-13098e345856",
+      "DisplayName": "matrix",
+      "ColorIndex": 12
+    }
+  },
+  "NextColorIndex": 13
+}

@@ -1,0 +1,14 @@
+H:\Programming\lesson6\lesson6\bin\Debug\lesson6.exe.config
+H:\Programming\lesson6\lesson6\bin\Debug\lesson6.exe
+H:\Programming\lesson6\lesson6\bin\Debug\lesson6.pdb
+H:\Programming\lesson6\lesson6\obj\Debug\lesson6.exe
+H:\Programming\lesson6\lesson6\obj\Debug\lesson6.pdb
+H:\Programming\lesson6\lesson6\obj\Debug\lesson6.csprojResolveAssemblyReference.cache
+C:\Users\azzhu\Documents\lesson7\lesson6\lesson6\bin\Debug\lesson6.exe.config
+C:\Users\azzhu\Documents\lesson7\lesson6\lesson6\bin\Debug\lesson6.exe
+C:\Users\azzhu\Documents\lesson7\lesson6\lesson6\bin\Debug\lesson6.pdb
+C:\Users\azzhu\Documents\lesson7\lesson6\lesson6\obj\Debug\lesson6.csproj.AssemblyReference.cache
+C:\Users\azzhu\Documents\lesson7\lesson6\lesson6\obj\Debug\lesson6.csproj.SuggestedBindingRedirects.cache
+C:\Users\azzhu\Documents\lesson7\lesson6\lesson6\obj\Debug\lesson6.csproj.CoreCompileInputs.cache
+C:\Users\azzhu\Documents\lesson7\lesson6\lesson6\obj\Debug\lesson6.exe
+C:\Users\azzhu\Documents\lesson7\lesson6\lesson6\obj\Debug\lesson6.pdb

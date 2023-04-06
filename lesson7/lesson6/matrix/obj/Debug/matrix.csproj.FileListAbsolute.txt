@@ -1,0 +1,5 @@
+H:\Programming\lesson6\matrix\bin\Debug\matrix.exe.config
+H:\Programming\lesson6\matrix\bin\Debug\matrix.exe
+H:\Programming\lesson6\matrix\bin\Debug\matrix.pdb
+H:\Programming\lesson6\matrix\obj\Debug\matrix.exe
+H:\Programming\lesson6\matrix\obj\Debug\matrix.pdb

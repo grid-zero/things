@@ -1,0 +1,5 @@
+H:\Programming\lesson5\if\bin\Debug\@if.exe.config
+H:\Programming\lesson5\if\bin\Debug\@if.exe
+H:\Programming\lesson5\if\bin\Debug\@if.pdb
+H:\Programming\lesson5\if\obj\Debug\@if.exe
+H:\Programming\lesson5\if\obj\Debug\@if.pdb

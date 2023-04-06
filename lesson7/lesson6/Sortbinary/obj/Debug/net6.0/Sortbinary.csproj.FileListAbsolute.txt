@@ -1,0 +1,15 @@
+C:\Users\azzhu\Downloads\lesson7\lesson6\Sortbinary\bin\Debug\net6.0\Sortbinary.exe
+C:\Users\azzhu\Downloads\lesson7\lesson6\Sortbinary\bin\Debug\net6.0\Sortbinary.deps.json
+C:\Users\azzhu\Downloads\lesson7\lesson6\Sortbinary\bin\Debug\net6.0\Sortbinary.runtimeconfig.json
+C:\Users\azzhu\Downloads\lesson7\lesson6\Sortbinary\bin\Debug\net6.0\Sortbinary.dll
+C:\Users\azzhu\Downloads\lesson7\lesson6\Sortbinary\bin\Debug\net6.0\ref\Sortbinary.dll
+C:\Users\azzhu\Downloads\lesson7\lesson6\Sortbinary\bin\Debug\net6.0\Sortbinary.pdb
+C:\Users\azzhu\Downloads\lesson7\lesson6\Sortbinary\obj\Debug\net6.0\Sortbinary.csproj.AssemblyReference.cache
+C:\Users\azzhu\Downloads\lesson7\lesson6\Sortbinary\obj\Debug\net6.0\Sortbinary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\azzhu\Downloads\lesson7\lesson6\Sortbinary\obj\Debug\net6.0\Sortbinary.AssemblyInfoInputs.cache
+C:\Users\azzhu\Downloads\lesson7\lesson6\Sortbinary\obj\Debug\net6.0\Sortbinary.AssemblyInfo.cs
+C:\Users\azzhu\Downloads\lesson7\lesson6\Sortbinary\obj\Debug\net6.0\Sortbinary.csproj.CoreCompileInputs.cache
+C:\Users\azzhu\Downloads\lesson7\lesson6\Sortbinary\obj\Debug\net6.0\Sortbinary.dll
+C:\Users\azzhu\Downloads\lesson7\lesson6\Sortbinary\obj\Debug\net6.0\ref\Sortbinary.dll
+C:\Users\azzhu\Downloads\lesson7\lesson6\Sortbinary\obj\Debug\net6.0\Sortbinary.pdb
+C:\Users\azzhu\Downloads\lesson7\lesson6\Sortbinary\obj\Debug\net6.0\Sortbinary.genruntimeconfig.cache

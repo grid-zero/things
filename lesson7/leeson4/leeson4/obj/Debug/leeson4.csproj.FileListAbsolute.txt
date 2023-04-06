@@ -1,0 +1,6 @@
+H:\Programming\leeson4\leeson4\bin\Debug\leeson4.exe.config
+H:\Programming\leeson4\leeson4\obj\Debug\leeson4.csprojResolveAssemblyReference.cache
+H:\Programming\leeson4\leeson4\bin\Debug\leeson4.exe
+H:\Programming\leeson4\leeson4\bin\Debug\leeson4.pdb
+H:\Programming\leeson4\leeson4\obj\Debug\leeson4.exe
+H:\Programming\leeson4\leeson4\obj\Debug\leeson4.pdb
