@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8640b282-1541-4aec-bd26-c6f2ea54a329": {
+      "ProjectGuid": "8640b282-1541-4aec-bd26-c6f2ea54a329",
+      "DisplayName": "lesson6",
+      "ColorIndex": 0
+    },
+    "d65aac05-b84c-4d2a-b897-3cf63f7f2b38": {
+      "ProjectGuid": "d65aac05-b84c-4d2a-b897-3cf63f7f2b38",
+      "DisplayName": "ConsoleApp1",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "a05bfc85-3794-40e6-aca0-c7f51ac91474": {
+      "ProjectGuid": "a05bfc85-3794-40e6-aca0-c7f51ac91474",
+      "DisplayName": "Sort",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

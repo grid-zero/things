@@ -1,0 +1,15 @@
+C:\Users\azzhu\Documents\Games-programming\2022\number and input test\challegne fix\challegne fix\bin\Debug\net6.0\challegne fix.exe
+C:\Users\azzhu\Documents\Games-programming\2022\number and input test\challegne fix\challegne fix\bin\Debug\net6.0\challegne fix.deps.json
+C:\Users\azzhu\Documents\Games-programming\2022\number and input test\challegne fix\challegne fix\bin\Debug\net6.0\challegne fix.runtimeconfig.json
+C:\Users\azzhu\Documents\Games-programming\2022\number and input test\challegne fix\challegne fix\bin\Debug\net6.0\challegne fix.dll
+C:\Users\azzhu\Documents\Games-programming\2022\number and input test\challegne fix\challegne fix\bin\Debug\net6.0\ref\challegne fix.dll
+C:\Users\azzhu\Documents\Games-programming\2022\number and input test\challegne fix\challegne fix\bin\Debug\net6.0\challegne fix.pdb
+C:\Users\azzhu\Documents\Games-programming\2022\number and input test\challegne fix\challegne fix\obj\Debug\net6.0\challegne fix.csproj.AssemblyReference.cache
+C:\Users\azzhu\Documents\Games-programming\2022\number and input test\challegne fix\challegne fix\obj\Debug\net6.0\challegne fix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\azzhu\Documents\Games-programming\2022\number and input test\challegne fix\challegne fix\obj\Debug\net6.0\challegne fix.AssemblyInfoInputs.cache
+C:\Users\azzhu\Documents\Games-programming\2022\number and input test\challegne fix\challegne fix\obj\Debug\net6.0\challegne fix.AssemblyInfo.cs
+C:\Users\azzhu\Documents\Games-programming\2022\number and input test\challegne fix\challegne fix\obj\Debug\net6.0\challegne fix.csproj.CoreCompileInputs.cache
+C:\Users\azzhu\Documents\Games-programming\2022\number and input test\challegne fix\challegne fix\obj\Debug\net6.0\challegne fix.dll
+C:\Users\azzhu\Documents\Games-programming\2022\number and input test\challegne fix\challegne fix\obj\Debug\net6.0\ref\challegne fix.dll
+C:\Users\azzhu\Documents\Games-programming\2022\number and input test\challegne fix\challegne fix\obj\Debug\net6.0\challegne fix.pdb
+C:\Users\azzhu\Documents\Games-programming\2022\number and input test\challegne fix\challegne fix\obj\Debug\net6.0\challegne fix.genruntimeconfig.cache

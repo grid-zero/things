@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lesson6", "lesson6\lesson6.csproj", "{8640B282-1541-4AEC-BD26-C6F2EA54A329}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{D65AAC05-B84C-4D2A-B897-3CF63F7F2B38}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sort", "Sort\Sort.csproj", "{A05BFC85-3794-40E6-ACA0-C7F51AC91474}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8640B282-1541-4AEC-BD26-C6F2EA54A329}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8640B282-1541-4AEC-BD26-C6F2EA54A329}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8640B282-1541-4AEC-BD26-C6F2EA54A329}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8640B282-1541-4AEC-BD26-C6F2EA54A329}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D65AAC05-B84C-4D2A-B897-3CF63F7F2B38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D65AAC05-B84C-4D2A-B897-3CF63F7F2B38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D65AAC05-B84C-4D2A-B897-3CF63F7F2B38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D65AAC05-B84C-4D2A-B897-3CF63F7F2B38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A05BFC85-3794-40E6-ACA0-C7F51AC91474}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A05BFC85-3794-40E6-ACA0-C7F51AC91474}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A05BFC85-3794-40E6-ACA0-C7F51AC91474}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A05BFC85-3794-40E6-ACA0-C7F51AC91474}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7310DC33-B02D-4910-98AE-262C3FE06D66}
+	EndGlobalSection
+EndGlobal
